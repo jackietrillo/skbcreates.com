@@ -1,0 +1,20 @@
+
+npm commands
+npm init
+npm start
+npm install package --save
+npm run build
+
+git commands:
+git init -b main
+git remote add origin https://github.com/jackietrillo/static1.git
+git pull origin main
+git push -u -f origin main
+
+git add .
+git commit -a -m "Updated menu and skills"
+git commit -m "commit message"
+git push origin main 
+
+npx create-react-app my-app 
+npx create-react-app . 
