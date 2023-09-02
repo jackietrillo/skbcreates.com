@@ -8,12 +8,13 @@ function App() {
       <header className="App-header">
         <div class="fluid-container">
           <div class="row">
-            <div class="col-3">
+            <div class="col-12">
               <img src={logo} className="App-logo" alt="logo" />
             </div>
-            <div class="col-3">&nbsp;&nbsp;&nbsp;</div>
-            <div class="col-3">
-              <img src={sean}   alt="sean" />
+          </div>
+          <div class="row">
+            <div class="col-12">
+              <img src={sean} className="" alt="sean" />
             </div>
           </div>
         </div>
